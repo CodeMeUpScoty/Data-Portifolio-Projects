@@ -39,18 +39,18 @@ Methodology
 •	Identified outliers that could distort results
 •	Ranked companies by gross revenue performance
 
-***4. Correlation Analysis***
+4. Correlation Analysis
 
 •	Created a correlation matrix across numeric variables
 •	Applied factorization to categorical variables to enable correlation analysis
 •	Identified variables with strong positive and negative correlations to gross revenue
 
-***5. Visualization & Insight Generation***
+5. Visualization & Insight Generation
 
 •	Used heatmaps and plots to clearly communicate relationships
 •	Highlighted the most influential variables impacting revenue
 
-**Key Insights**
+Key Insights
 
 • Budget showed the strongest correlation with gross revenue, confirming that higher investment generally increases revenue potential.
 
@@ -58,7 +58,7 @@ Methodology
 
 • Several commonly assumed predictors (such as release year or runtime) showed weaker correlations than expected, challenging industry assumptions.
 
-**Business Value**
+Business Value
 
 This analysis demonstrates how historical movie data can be leveraged to reduce uncertainty in investment decisions. The insights can be used to:
 
@@ -66,7 +66,7 @@ This analysis demonstrates how historical movie data can be leveraged to reduce 
 • Identify high-performing production partners
 • Inform risk assessment for future film projects
 
-**Skills Demonstrated**
+Skills Demonstrated
 
 • End-to-end data analysis workflow
 • Data cleaning and preprocessing
