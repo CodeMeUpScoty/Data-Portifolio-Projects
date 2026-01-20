@@ -75,6 +75,6 @@ Skills Demonstrated
 • Data visualization and insight storytelling
 • Translating technical findings into business-relevant conclusions
 
-**Outcome**
+Outcome
 
 The project delivers a clear, data-driven understanding of what influences movie revenue and showcases my ability to transform raw data into meaningful business insights using Python. It reflects the analytical rigor and communication skills required in data analyst and business analyst roles.
