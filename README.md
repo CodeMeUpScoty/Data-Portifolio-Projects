@@ -1,33 +1,40 @@
 Movie Industry Revenue Analysis (Python)
 Project Overview
+
 This project analyzes a movie industry dataset to identify the key factors that drive box office revenue. Using Python and industry-standard data analysis techniques, I explored relationships between financial, categorical, and temporal variables to determine which attributes most strongly correlate with movie success.
 The objective was to move beyond descriptive statistics and produce actionable insights that could inform decision-making for studios, producers, and investors.
 ________________________________________
 Business Problem
+
 Film production involves significant financial risk, and stakeholders often rely on intuition rather than data when making investment decisions. The core business questions addressed in this project were:
 •	Which factors most strongly influence a movie’s gross revenue?
 •	Is budget the primary driver of financial success, or do other variables play a significant role?
 •	Can correlations within historical data inform smarter production and distribution strategies?
 ________________________________________
 Data & Tools
+
 Dataset:
+
 A structured dataset containing movie-level information such as budget, gross revenue, company, release year, and other production attributes.
+
 Tools & Technologies:
+
 •	Python
 •	Pandas & NumPy for data manipulation
 •	Matplotlib & Seaborn for data visualization
 •	Jupyter Notebook for exploratory analysis and documentation
 ________________________________________
 Methodology
+
 1.	Data Exploration & Validation
 •	Inspected the dataset structure and data types
 •	Identified and assessed missing values
 •	Reviewed distributions and potential outliers
-2.	Data Cleaning & Preparation
+3.	Data Cleaning & Preparation
 •	Handled missing data to ensure analytical integrity
 •	Converted data types where required for analysis
 •	Standardized the dataset for correlation analysis
-3.	Exploratory Data Analysis (EDA)
+4.	Exploratory Data Analysis (EDA)
 •	Analyzed numeric distributions and trends
 •	Identified outliers that could distort results
 •	Ranked companies by gross revenue performance
