@@ -27,7 +27,7 @@ ________________________________________
 Methodology
 
 1.	Data Exploration & Validation
-•	Inspected the dataset structure and data types
+•	Inspected the dataset structure and data typess
 •	Identified and assessed missing values
 •	Reviewed distributions and potential outliers
 3.	Data Cleaning & Preparation
